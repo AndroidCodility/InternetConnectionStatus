@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Internet Status</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">Detecting internet connection status in your app is very easy and won’t take more than 5mins. In this program you will learn how to detect internet connection status manually and automatically. Using broadcast receiver, your app will be automatically notified when there is a change in network connection.</string>
+</resources>
